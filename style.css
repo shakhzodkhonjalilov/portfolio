@@ -421,6 +421,13 @@ h6 { font-size: 16px;}
 
 
     }
+  
+  @media (max-width: 560px) {
+    #preview {
+        max-width: 250px;
+    }
+}
+
 
     .right-column {
         justify-content: center;
